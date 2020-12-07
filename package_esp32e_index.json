@@ -11,7 +11,7 @@
           "category": "ezLCD-ESP32", 
           "name": "esp32-ezlcd", 
           "url": "https://github.com/earthlcd/arduino-esp32-dist/raw/master/esp32e-1.0.5.zip", 
-          "checksum": "SHA-256:d571f7dc4de00e3db6c42702339b69fd83e4b5395af448c60df36c12e1c7ac7f", 
+          "checksum": "SHA-256:5be7ff248dd7adf4fbaa36225f9cb7546614a1541b592bd689050bd6802b565a", 
           "help": {
             "online": ""
           }, 
@@ -40,7 +40,7 @@
               "name": "mkspiffs"
             }
           ], 
-          "size": "36940651"
+          "size": "36940648"
         }
       ], 
       "tools": [
