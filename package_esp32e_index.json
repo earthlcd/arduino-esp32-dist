@@ -9,7 +9,7 @@
       "platforms": [
         {
           "category": "ESP32", 
-          "name": "esp32", 
+          "name": "esp32-ezlcd", 
           "url": "https://github.com/earthlcd/arduino-esp32-dist/raw/master/esp32e-1.0.5.zip", 
           "checksum": "SHA-256:6ce706c47642938322c8da0f14f65cd1df9667be80e42c948aa849bdb6e645a7", 
           "help": {
